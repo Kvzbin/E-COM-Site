@@ -15,7 +15,7 @@ function Navbar() {
           <div className="flex-shrink-0">
             <img
               className="rounded-full h-11 mt-1"
-              src="../../public/Main-Logo.jpg"
+              src="/Main-Logo.jpg"
               alt="Logo"
             />
           </div>

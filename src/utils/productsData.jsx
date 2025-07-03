@@ -1,4 +1,3 @@
-
 export const products = [
   {
     id: 1,
@@ -9,7 +8,7 @@ export const products = [
     image: "https://images.pexels.com/photos/6311396/pexels-photo-6311396.jpeg",
     description: "Elegant black dress for all occasions.",
     rating: 4.5,
-    sizes: ["S", "M", "L", "XL"]
+    sizes: ["S", "M", "L", "XL"],
   },
   {
     id: 2,
@@ -20,7 +19,7 @@ export const products = [
     image: "https://images.pexels.com/photos/1027130/pexels-photo-1027130.jpeg",
     description: "Floral pink bodycon for brunch or evenings.",
     rating: 4.3,
-    sizes: ["S", "M", "L", "XL"]
+    sizes: ["S", "M", "L", "XL"],
   },
   {
     id: 3,
@@ -31,7 +30,7 @@ export const products = [
     image: "https://images.pexels.com/photos/6311611/pexels-photo-6311611.jpeg",
     description: "Chic black mini perfect for date nights.",
     rating: 4.6,
-    sizes: ["S", "M", "L", "XL"]
+    sizes: ["S", "M", "L", "XL"],
   },
   {
     id: 4,
@@ -42,7 +41,7 @@ export const products = [
     image: "https://images.pexels.com/photos/1542085/pexels-photo-1542085.jpeg",
     description: "Soft pastel tones meet winter elegance.",
     rating: 4.4,
-    sizes: ["S", "M", "L", "XL"]
+    sizes: ["S", "M", "L", "XL"],
   },
   {
     id: 5,
@@ -50,10 +49,10 @@ export const products = [
     price: 2499,
     category: "Women",
     type: "Bottomwear",
-    image: "https://images.pexels.com/photos/6311374/pexels-photo-6311374.jpeg",
+    image: "https://images.unsplash.com/photo-1551084804-4b60b3c10f9e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTB8fGNsb3RoZXN8ZW58MHx8MHx8fDA%3D",
     description: "Bold crimson for the confident woman.",
     rating: 4.2,
-    sizes: ["S", "M", "L", "XL"]
+    sizes: ["S", "M", "L", "XL"],
   },
   {
     id: 6,
@@ -61,10 +60,10 @@ export const products = [
     price: 2799,
     category: "Women",
     type: "Topwear",
-    image: "https://images.pexels.com/photos/6311376/pexels-photo-6311376.jpeg",
+    image: "https://images.unsplash.com/photo-1574201635302-388dd92a4c3f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTZ8fGNsb3RoZXN8ZW58MHx8MHx8fDA%3D",
     description: "Luxurious velvet dress in royal tones.",
     rating: 4.7,
-    sizes: ["S", "M", "L", "XL"]
+    sizes: ["S", "M", "L", "XL"],
   },
   {
     id: 7,
@@ -75,7 +74,7 @@ export const products = [
     image: "https://images.pexels.com/photos/2535859/pexels-photo-2535859.jpeg",
     description: "Comfy hoodie for city chillers.",
     rating: 4.1,
-    sizes: ["S", "M", "L", "XL"]
+    sizes: ["S", "M", "L", "XL"],
   },
   {
     id: 8,
@@ -86,7 +85,7 @@ export const products = [
     image: "https://images.pexels.com/photos/220560/pexels-photo-220560.jpeg",
     description: "Everyday tee with essential style.",
     rating: 4.0,
-    sizes: ["S", "M", "L", "XL"]
+    sizes: ["S", "M", "L", "XL"],
   },
   {
     id: 9,
@@ -94,10 +93,10 @@ export const products = [
     price: 1299,
     category: "Men",
     type: "Winterwear",
-    image: "https://images.pexels.com/photos/614018/pexels-photo-614018.jpeg",
+    image: "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTl8fGNsb3RoZXN8ZW58MHx8MHx8fDA%3D",
     description: "Stay warm and stylish in gray.",
     rating: 4.3,
-    sizes: ["S", "M", "L", "XL"]
+    sizes: ["S", "M", "L", "XL"],
   },
   {
     id: 10,
@@ -105,10 +104,10 @@ export const products = [
     price: 1599,
     category: "Men",
     type: "Bottomwear",
-    image: "https://images.pexels.com/photos/974470/pexels-photo-974470.jpeg",
+    image: "https://images.unsplash.com/photo-1605450081927-6b40c11c661f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTh8fGNsb3RoZXN8ZW58MHx8MHx8fDA%3D",
     description: "Classic joggers for comfort and fit.",
     rating: 4.5,
-    sizes: ["S", "M", "L", "XL"]
+    sizes: ["S", "M", "L", "XL"],
   },
   {
     id: 11,
@@ -119,7 +118,7 @@ export const products = [
     image: "https://images.pexels.com/photos/3661553/pexels-photo-3661553.jpeg",
     description: "Fun hoodie with dinosaur print for kids.",
     rating: 4.6,
-    sizes: ["S", "M", "L", "XL"]
+    sizes: ["S", "M", "L", "XL"],
   },
   {
     id: 12,
@@ -130,7 +129,7 @@ export const products = [
     image: "https://images.pexels.com/photos/1382731/pexels-photo-1382731.jpeg",
     description: "Bright yellow tee perfect for playtime.",
     rating: 4.2,
-    sizes: ["S", "M", "L", "XL"]
+    sizes: ["S", "M", "L", "XL"],
   },
   {
     id: 13,
@@ -141,7 +140,7 @@ export const products = [
     image: "https://images.pexels.com/photos/3661556/pexels-photo-3661556.jpeg",
     description: "Light and comfy shorts for summer days.",
     rating: 4.4,
-    sizes: ["S", "M", "L", "XL"]
+    sizes: ["S", "M", "L", "XL"],
   },
   {
     id: 14,
@@ -152,7 +151,7 @@ export const products = [
     image: "https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg",
     description: "Lavender vibes with luxe appeal.",
     rating: 4.6,
-    sizes: ["S", "M", "L", "XL"]
+    sizes: ["S", "M", "L", "XL"],
   },
   {
     id: 15,
@@ -163,7 +162,7 @@ export const products = [
     image: "https://images.pexels.com/photos/6311582/pexels-photo-6311582.jpeg",
     description: "Stand out in this citrus color blazer.",
     rating: 4.3,
-    sizes: ["S", "M", "L", "XL"]
+    sizes: ["S", "M", "L", "XL"],
   },
   {
     id: 16,
@@ -174,7 +173,7 @@ export const products = [
     image: "https://images.pexels.com/photos/5322206/pexels-photo-5322206.jpeg",
     description: "Chocolate-toned jacket with cozy feel.",
     rating: 4.5,
-    sizes: ["S", "M", "L", "XL"]
+    sizes: ["S", "M", "L", "XL"],
   },
   {
     id: 17,
@@ -182,10 +181,10 @@ export const products = [
     price: 1599,
     category: "Men",
     type: "Bottomwear",
-    image: "https://images.pexels.com/photos/5325882/pexels-photo-5325882.jpeg",
+    image: "https://plus.unsplash.com/premium_photo-1675186049297-035b3f692c04?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTAxfHxjbG90aGVzfGVufDB8fDB8fHww",
     description: "Pop out with neon accent joggers.",
     rating: 4.4,
-    sizes: ["S", "M", "L", "XL"]
+    sizes: ["S", "M", "L", "XL"],
   },
   {
     id: 18,
@@ -196,7 +195,7 @@ export const products = [
     image: "https://images.pexels.com/photos/1101730/pexels-photo-1101730.jpeg",
     description: "Adorable pink party dress for little stars.",
     rating: 4.7,
-    sizes: ["S", "M", "L", "XL"]
+    sizes: ["S", "M", "L", "XL"],
   },
   {
     id: 19,
@@ -204,10 +203,10 @@ export const products = [
     price: 1899,
     category: "Women",
     type: "Topwear",
-    image: "https://images.pexels.com/photos/1852385/pexels-photo-1852385.jpeg",
+    image: "https://images.unsplash.com/photo-1560243563-062bfc001d68?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTIwfHxjbG90aGVzfGVufDB8fDB8fHww",
     description: "Classy royal blue blouse for all occasions.",
     rating: 4.5,
-    sizes: ["S", "M", "L", "XL"]
+    sizes: ["S", "M", "L", "XL"],
   },
   {
     id: 20,
@@ -218,139 +217,149 @@ export const products = [
     image: "https://images.pexels.com/photos/5325857/pexels-photo-5325857.jpeg",
     description: "Flowy mint green shirt for sunny days.",
     rating: 4.2,
-    sizes: ["S", "M", "L", "XL"]
+    sizes: ["S", "M", "L", "XL"],
   },
-    {
-      id: 21,
-      image: "../../public/collection/1.jpg",
-      name: "Dreamscape",
-      artist: "Nova Beats",
-      rating: 4.8,
-      price: 1999,
-      genre: "Electronic",
-      tag: "Top Charts",
-      sizes: ["S", "M", "L", "XL"],
-      description: "An ethereal blend of electronic rhythms for dreamers."
-    },
-    {
-      id: 22,
-      image: "../../public/collection/2.jpg",
-      name: "Midnight Rain",
-      artist: "Luna Sky",
-      rating: 4.6,
-      price: 1249,
-      genre: "Pop",
-      tag: "New Release",
-      sizes: ["S", "M", "L", "XL"],
-      description: "Smooth pop beats that feel like a late-night rain shower."
-    },
-    {
-      id: 23,
-      image: "../../public/collection/3.jpg",
-      name: "Vibe Avenue",
-      artist: "DJ Mirage",
-      rating: 4.7,
-      price: 2229,
-      genre: "Hip-Hop",
-      tag: "Trending",
-      sizes: ["S", "M", "L", "XL"],
-      description: "Hip-hop street vibes to elevate your daily grind."
-    },
-    {
-      id: 24,
-      image: "../../public/collection/4.jpg",
-      name: "Echoes of Time",
-      artist: "Celeste Harmony",
-      rating: 4.9,
-      price: 2449,
-      genre: "Classical",
-      tag: "Editor's Pick",
-      sizes: ["S", "M", "L", "XL"],
-      description: "Timeless classical melodies to relax and reflect."
-    },
-    {
-      id: 25,
-      image: "../../public/collection/5.jpg",
-      name: "Urban Pulse",
-      artist: "Rhythm X",
-      rating: 4.4,
-      price: 1999,
-      genre: "Rap",
-      tag: "Hot Now",
-      sizes: ["S", "M", "L", "XL"],
-      description: "Raw and real rap rhythms from the urban core."
-    },
-    {
-      id: 26,
-      image: "../../public/collection/6.jpg",
-      name: "Sunset Drive",
-      artist: "Neon Drift",
-      rating: 4.5,
-      price: 1579,
-      genre: "Synthwave",
-      tag: "Top 10",
-      sizes: ["S", "M", "L", "XL"],
-      description: "A synthwave soundtrack perfect for your evening cruise."
-    },
-    {
-      id: 27,
-      image: "../../public/collection/7.jpg",
-      name: "Heartbeats",
-      artist: "Amber Rose",
-      rating: 4.3,
-      price: 1229,
-      genre: "Romance",
-      tag: "Soft Vibes",
-      sizes: ["S", "M", "L", "XL"],
-      description: "Romantic ballads that tug at your heartstrings."
-    },
-    {
-      id: 28,
-      image: "../../public/collection/8.jpg",
-      name: "Desert Storm",
-      artist: "Echo Nomad",
-      rating: 4.6,
-      price: 2109,
-      genre: "World",
-      tag: "Cultural Picks",
-      sizes: ["S", "M", "L", "XL"],
-      description: "World fusion music inspired by desert winds."
-    },
-    {
-      id: 29,
-      image: "../../public/collection/9.jpg",
-      name: "Firelight",
-      artist: "Ignite",
-      rating: 4.7,
-      price: 1559,
-      genre: "Rock",
-      tag: "Classic Hit",
-      sizes: ["S", "M", "L", "XL"],
-      description: "Fiery rock anthems that spark your inner rebel."
-    },
-    {
-      id: 30,
-      image: "../../public/collection/10.jpg",
-      name: "Neon Jungle",
-      artist: "Bass Tribe",
-      rating: 4.8,
-      price: 2019,
-      genre: "EDM",
-      tag: "Festival Vibes",
-      sizes: ["S", "M", "L", "XL"],
-      description: "High-energy EDM beats for party animals."
-    },
-    {
-      id: 31,
-      image: "../../public/collection/3.jpg",
-      name: "Vibe Avenue",
-      artist: "DJ Mirage",
-      rating: 4.7,
-      price: 2229,
-      genre: "Hip-Hop",
-      tag: "Trending",
-      sizes: ["S", "M", "L", "XL"],
-      description: "Hip-hop street vibes to elevate your daily grind."
-    },
-  
+  {
+    id: 21,
+    image:
+      "https://plus.unsplash.com/premium_photo-1675186049366-64a655f8f537?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2xvdGhlc3xlbnwwfHwwfHx8MA%3D%3D",
+    name: "Dreamscape",
+    artist: "Nova Beats",
+    rating: 4.8,
+    price: 1999,
+    genre: "Electronic",
+    tag: "Top Charts",
+    sizes: ["S", "M", "L", "XL"],
+    description: "An ethereal blend of electronic rhythms for dreamers.",
+  },
+  {
+    id: 22,
+    image:
+      "https://plus.unsplash.com/premium_photo-1675186049419-d48f4b28fe7c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y2xvdGhlc3xlbnwwfHwwfHx8MA%3D%3D",
+    name: "Midnight Rain",
+    artist: "Luna Sky",
+    rating: 4.6,
+    price: 1249,
+    genre: "Pop",
+    tag: "New Release",
+    sizes: ["S", "M", "L", "XL"],
+    description: "Smooth pop beats that feel like a late-night rain shower.",
+  },
+  {
+    id: 23,
+    image:
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNsb3RoZXN8ZW58MHx8MHx8fDA%3D",
+    name: "Vibe Avenue",
+    artist: "DJ Mirage",
+    rating: 4.7,
+    price: 2229,
+    genre: "Hip-Hop",
+    tag: "Trending",
+    sizes: ["S", "M", "L", "XL"],
+    description: "Hip-hop street vibes to elevate your daily grind.",
+  },
+  {
+    id: 24,
+    image:
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNsb3RoZXN8ZW58MHx8MHx8fDA%3D",
+    name: "Echoes of Time",
+    artist: "Celeste Harmony",
+    rating: 4.9,
+    price: 2449,
+    genre: "Classical",
+    tag: "Editor's Pick",
+    sizes: ["S", "M", "L", "XL"],
+    description: "Timeless classical melodies to relax and reflect.",
+  },
+  {
+    id: 25,
+    image:
+      "https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGNsb3RoZXN8ZW58MHx8MHx8fDA%3D",
+    name: "Urban Pulse",
+    artist: "Rhythm X",
+    rating: 4.4,
+    price: 1999,
+    genre: "Rap",
+    tag: "Hot Now",
+    sizes: ["S", "M", "L", "XL"],
+    description: "Raw and real rap rhythms from the urban core.",
+  },
+  {
+    id: 26,
+    image:
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fGNsb3RoZXN8ZW58MHx8MHx8fDA%3D",
+    name: "Sunset Drive",
+    artist: "Neon Drift",
+    rating: 4.5,
+    price: 1579,
+    genre: "Synthwave",
+    tag: "Top 10",
+    sizes: ["S", "M", "L", "XL"],
+    description: "A synthwave soundtrack perfect for your evening cruise.",
+  },
+  {
+    id: 27,
+    image:
+      "https://plus.unsplash.com/premium_photo-1675186049547-2842e30f12e6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTN8fGNsb3RoZXN8ZW58MHx8MHx8fDA%3D",
+    name: "Heartbeats",
+    artist: "Amber Rose",
+    rating: 4.3,
+    price: 1229,
+    genre: "Romance",
+    tag: "Soft Vibes",
+    sizes: ["S", "M", "L", "XL"],
+    description: "Romantic ballads that tug at your heartstrings.",
+  },
+  {
+    id: 28,
+    image:
+      "https://images.unsplash.com/photo-1560060141-7b9018741ced?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTV8fGNsb3RoZXN8ZW58MHx8MHx8fDA%3D",
+    name: "Desert Storm",
+    artist: "Echo Nomad",
+    rating: 4.6,
+    price: 2109,
+    genre: "World",
+    tag: "Cultural Picks",
+    sizes: ["S", "M", "L", "XL"],
+    description: "World fusion music inspired by desert winds.",
+  },
+  {
+    id: 29,
+    image:
+      "https://plus.unsplash.com/premium_photo-1676031940533-8f1ac6a07268?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjV8fGNsb3RoZXN8ZW58MHx8MHx8fDA%3D",
+    name: "Firelight",
+    artist: "Ignite",
+    rating: 4.7,
+    price: 1559,
+    genre: "Rock",
+    tag: "Classic Hit",
+    sizes: ["S", "M", "L", "XL"],
+    description: "Fiery rock anthems that spark your inner rebel.",
+  },
+  {
+    id: 30,
+    image:
+      "https://images.unsplash.com/photo-1543076447-215ad9ba6923?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njd8fGNsb3RoZXN8ZW58MHx8MHx8fDA%3D",
+    name: "Neon Jungle",
+    artist: "Bass Tribe",
+    rating: 4.8,
+    price: 2019,
+    genre: "EDM",
+    tag: "Festival Vibes",
+    sizes: ["S", "M", "L", "XL"],
+    description: "High-energy EDM beats for party animals.",
+  },
+  {
+    id: 31,
+    image:
+      "https://images.unsplash.com/photo-1611312449408-fcece27cdbb7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzJ8fGNsb3RoZXN8ZW58MHx8MHx8fDA%3D",
+    name: "Vibe Avenue",
+    artist: "DJ Mirage",
+    rating: 4.7,
+    price: 2229,
+    genre: "Hip-Hop",
+    tag: "Trending",
+    sizes: ["S", "M", "L", "XL"],
+    description: "Hip-hop street vibes to elevate your daily grind.",
+  },
 ];
